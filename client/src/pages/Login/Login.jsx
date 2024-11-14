@@ -465,7 +465,7 @@ const Login = () => {
 
           <p>
             By Continuing, I agree to the <span>Terms of Use</span> &{" "}
-            <span> Privacy Policy</span>
+            <span> Privacy Polic</span>
           </p>
 
           <Button text={"Continue"} onClicked={handleSubmit} disable={loading} />
